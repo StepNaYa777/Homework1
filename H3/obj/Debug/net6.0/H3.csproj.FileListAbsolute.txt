@@ -1,0 +1,15 @@
+C:\Users\n.stepanova\Desktop\1CodC#\Homeworks\H3\obj\Debug\net6.0\H3.csproj.AssemblyReference.cache
+C:\Users\n.stepanova\Desktop\1CodC#\Homeworks\H3\obj\Debug\net6.0\H3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n.stepanova\Desktop\1CodC#\Homeworks\H3\obj\Debug\net6.0\H3.AssemblyInfoInputs.cache
+C:\Users\n.stepanova\Desktop\1CodC#\Homeworks\H3\obj\Debug\net6.0\H3.AssemblyInfo.cs
+C:\Users\n.stepanova\Desktop\1CodC#\Homeworks\H3\obj\Debug\net6.0\H3.csproj.CoreCompileInputs.cache
+C:\Users\n.stepanova\Desktop\1CodC#\Homeworks\H3\bin\Debug\net6.0\H3.exe
+C:\Users\n.stepanova\Desktop\1CodC#\Homeworks\H3\bin\Debug\net6.0\H3.deps.json
+C:\Users\n.stepanova\Desktop\1CodC#\Homeworks\H3\bin\Debug\net6.0\H3.runtimeconfig.json
+C:\Users\n.stepanova\Desktop\1CodC#\Homeworks\H3\bin\Debug\net6.0\H3.dll
+C:\Users\n.stepanova\Desktop\1CodC#\Homeworks\H3\bin\Debug\net6.0\H3.pdb
+C:\Users\n.stepanova\Desktop\1CodC#\Homeworks\H3\obj\Debug\net6.0\H3.dll
+C:\Users\n.stepanova\Desktop\1CodC#\Homeworks\H3\obj\Debug\net6.0\refint\H3.dll
+C:\Users\n.stepanova\Desktop\1CodC#\Homeworks\H3\obj\Debug\net6.0\H3.pdb
+C:\Users\n.stepanova\Desktop\1CodC#\Homeworks\H3\obj\Debug\net6.0\H3.genruntimeconfig.cache
+C:\Users\n.stepanova\Desktop\1CodC#\Homeworks\H3\obj\Debug\net6.0\ref\H3.dll
