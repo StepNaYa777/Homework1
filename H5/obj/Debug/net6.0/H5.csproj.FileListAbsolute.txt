@@ -1,0 +1,15 @@
+C:\Users\n.stepanova\Desktop\1CodC#\Homeworks\H5\bin\Debug\net6.0\H5.exe
+C:\Users\n.stepanova\Desktop\1CodC#\Homeworks\H5\bin\Debug\net6.0\H5.deps.json
+C:\Users\n.stepanova\Desktop\1CodC#\Homeworks\H5\bin\Debug\net6.0\H5.runtimeconfig.json
+C:\Users\n.stepanova\Desktop\1CodC#\Homeworks\H5\bin\Debug\net6.0\H5.dll
+C:\Users\n.stepanova\Desktop\1CodC#\Homeworks\H5\bin\Debug\net6.0\H5.pdb
+C:\Users\n.stepanova\Desktop\1CodC#\Homeworks\H5\obj\Debug\net6.0\H5.csproj.AssemblyReference.cache
+C:\Users\n.stepanova\Desktop\1CodC#\Homeworks\H5\obj\Debug\net6.0\H5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n.stepanova\Desktop\1CodC#\Homeworks\H5\obj\Debug\net6.0\H5.AssemblyInfoInputs.cache
+C:\Users\n.stepanova\Desktop\1CodC#\Homeworks\H5\obj\Debug\net6.0\H5.AssemblyInfo.cs
+C:\Users\n.stepanova\Desktop\1CodC#\Homeworks\H5\obj\Debug\net6.0\H5.csproj.CoreCompileInputs.cache
+C:\Users\n.stepanova\Desktop\1CodC#\Homeworks\H5\obj\Debug\net6.0\H5.dll
+C:\Users\n.stepanova\Desktop\1CodC#\Homeworks\H5\obj\Debug\net6.0\refint\H5.dll
+C:\Users\n.stepanova\Desktop\1CodC#\Homeworks\H5\obj\Debug\net6.0\H5.pdb
+C:\Users\n.stepanova\Desktop\1CodC#\Homeworks\H5\obj\Debug\net6.0\H5.genruntimeconfig.cache
+C:\Users\n.stepanova\Desktop\1CodC#\Homeworks\H5\obj\Debug\net6.0\ref\H5.dll
