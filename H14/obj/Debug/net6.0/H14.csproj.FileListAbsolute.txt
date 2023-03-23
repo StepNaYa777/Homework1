@@ -1,0 +1,15 @@
+C:\Users\n.stepanova\Desktop\Examples\1CodC#\Homeworks\H14\bin\Debug\net6.0\H14.exe
+C:\Users\n.stepanova\Desktop\Examples\1CodC#\Homeworks\H14\bin\Debug\net6.0\H14.deps.json
+C:\Users\n.stepanova\Desktop\Examples\1CodC#\Homeworks\H14\bin\Debug\net6.0\H14.runtimeconfig.json
+C:\Users\n.stepanova\Desktop\Examples\1CodC#\Homeworks\H14\bin\Debug\net6.0\H14.dll
+C:\Users\n.stepanova\Desktop\Examples\1CodC#\Homeworks\H14\bin\Debug\net6.0\H14.pdb
+C:\Users\n.stepanova\Desktop\Examples\1CodC#\Homeworks\H14\obj\Debug\net6.0\H14.csproj.AssemblyReference.cache
+C:\Users\n.stepanova\Desktop\Examples\1CodC#\Homeworks\H14\obj\Debug\net6.0\H14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n.stepanova\Desktop\Examples\1CodC#\Homeworks\H14\obj\Debug\net6.0\H14.AssemblyInfoInputs.cache
+C:\Users\n.stepanova\Desktop\Examples\1CodC#\Homeworks\H14\obj\Debug\net6.0\H14.AssemblyInfo.cs
+C:\Users\n.stepanova\Desktop\Examples\1CodC#\Homeworks\H14\obj\Debug\net6.0\H14.csproj.CoreCompileInputs.cache
+C:\Users\n.stepanova\Desktop\Examples\1CodC#\Homeworks\H14\obj\Debug\net6.0\H14.dll
+C:\Users\n.stepanova\Desktop\Examples\1CodC#\Homeworks\H14\obj\Debug\net6.0\refint\H14.dll
+C:\Users\n.stepanova\Desktop\Examples\1CodC#\Homeworks\H14\obj\Debug\net6.0\H14.pdb
+C:\Users\n.stepanova\Desktop\Examples\1CodC#\Homeworks\H14\obj\Debug\net6.0\H14.genruntimeconfig.cache
+C:\Users\n.stepanova\Desktop\Examples\1CodC#\Homeworks\H14\obj\Debug\net6.0\ref\H14.dll
