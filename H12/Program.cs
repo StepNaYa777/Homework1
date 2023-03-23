@@ -87,11 +87,11 @@
 //[3, 7, 23, 12] -> 19
 //[-4, -6, 89, 6] -> 0
 
-Console.WriteLine("Введите размер массива");
+Console.WriteLine("Размер массива");
 int size = Convert.ToInt32(Console.ReadLine());
 int[] numbers = new int[size];
 FillArrayRandomNumbers(numbers);
-Console.WriteLine("Вот наш массив: ");
+Console.WriteLine("Массив: ");
 PrintArray(numbers);
 int sum = 0;
 
@@ -104,7 +104,7 @@ void FillArrayRandomNumbers(int[] numbers)
 {
     for(int i = 0; i < numbers.Length; i++)
         {
-            numbers[i] = new Random().Next(1,100);
+            numbers[i] = new Random().Next(0,100);
         }
 }
 void PrintArray(int[] numbers)
