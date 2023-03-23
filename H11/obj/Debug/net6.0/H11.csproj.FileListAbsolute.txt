@@ -1,0 +1,15 @@
+C:\Users\n.stepanova\Desktop\Examples\1CodC#\Homeworks\H11\bin\Debug\net6.0\H11.exe
+C:\Users\n.stepanova\Desktop\Examples\1CodC#\Homeworks\H11\bin\Debug\net6.0\H11.deps.json
+C:\Users\n.stepanova\Desktop\Examples\1CodC#\Homeworks\H11\bin\Debug\net6.0\H11.runtimeconfig.json
+C:\Users\n.stepanova\Desktop\Examples\1CodC#\Homeworks\H11\bin\Debug\net6.0\H11.dll
+C:\Users\n.stepanova\Desktop\Examples\1CodC#\Homeworks\H11\bin\Debug\net6.0\H11.pdb
+C:\Users\n.stepanova\Desktop\Examples\1CodC#\Homeworks\H11\obj\Debug\net6.0\H11.csproj.AssemblyReference.cache
+C:\Users\n.stepanova\Desktop\Examples\1CodC#\Homeworks\H11\obj\Debug\net6.0\H11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n.stepanova\Desktop\Examples\1CodC#\Homeworks\H11\obj\Debug\net6.0\H11.AssemblyInfoInputs.cache
+C:\Users\n.stepanova\Desktop\Examples\1CodC#\Homeworks\H11\obj\Debug\net6.0\H11.AssemblyInfo.cs
+C:\Users\n.stepanova\Desktop\Examples\1CodC#\Homeworks\H11\obj\Debug\net6.0\H11.csproj.CoreCompileInputs.cache
+C:\Users\n.stepanova\Desktop\Examples\1CodC#\Homeworks\H11\obj\Debug\net6.0\H11.dll
+C:\Users\n.stepanova\Desktop\Examples\1CodC#\Homeworks\H11\obj\Debug\net6.0\refint\H11.dll
+C:\Users\n.stepanova\Desktop\Examples\1CodC#\Homeworks\H11\obj\Debug\net6.0\H11.pdb
+C:\Users\n.stepanova\Desktop\Examples\1CodC#\Homeworks\H11\obj\Debug\net6.0\H11.genruntimeconfig.cache
+C:\Users\n.stepanova\Desktop\Examples\1CodC#\Homeworks\H11\obj\Debug\net6.0\ref\H11.dll
